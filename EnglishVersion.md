@@ -2,7 +2,7 @@
 
 # Shrink Apk Analyzer
 
-[EnglishVersion](EnglishVersion.md)
+
 
 ### Porting apkanalyzer designed for PC in Android SDK to Android
 
